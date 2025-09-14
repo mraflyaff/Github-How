@@ -1,0 +1,3 @@
+how to use github
+1. Make a repository/ repo
+2. buat suatu file sebagai contoh
