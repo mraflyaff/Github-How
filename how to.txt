@@ -4,3 +4,4 @@ how to use github
 3. Melakukancommit setelah selesai
 4. ketika ingin menambah sesuatu tinggal tekan edit 
 5. Melakukan penghapusan pada satu langkah yang telah terjadi
+6. nyobain github mobile(ini pake hp)
