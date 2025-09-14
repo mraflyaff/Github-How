@@ -1,5 +1,6 @@
 how to use github
 1. Make a repository/ repo
 2. buat suatu file sebagai contoh
-3. Melakukan kcommit setelah selesai
+3. Melakukancommit setelah selesai
 4. ketika ingin menambah sesuatu tinggal tekan edit 
+5. Melakukan penghapusan pada satu langkah yang telah terjadi
